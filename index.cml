@@ -1,0 +1,8 @@
+<html>
+    <head>
+        <title>OMG</title>
+    </head>
+    <body>
+        <h1>%{name} is in the house!</h1>
+    </body>
+</html>
